@@ -6,7 +6,7 @@
 
 VERSION="1.0.0"
 # URL used to check for updates
-DSM_RAW_URL="https://raw.githubusercontent.com/Armanoide/dsm/main/dsm"
+DSM_RAW_URL="https://raw.githubusercontent.com/Armanoide/dms/refs/heads/main/dsm"
 
 # Configuration
 SOURCE_DIR="${DSM_SOURCE_DIR:-$HOME/dotfiles/scripts}"

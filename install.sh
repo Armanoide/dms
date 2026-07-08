@@ -5,7 +5,7 @@ set -e
 
 # Define the raw URL of the dsm script in your repository
 # (Update the branch name 'main' if you use 'master')
-DSM_RAW_URL="https://raw.githubusercontent.com/Armanoide/dotfiles/main/scripts/dsm"
+DSM_RAW_URL="https://raw.githubusercontent.com/Armanoide/dms/refs/heads/main/dsm"
 TARGET_BIN="/usr/local/bin/dsm"
 
 echo "=> Downloading dsm..."
