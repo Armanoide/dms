@@ -17,4 +17,4 @@ It allows you to easily symlink your custom scripts from your dotfiles repositor
 You can install or update DMS using the following one-liner:
 
 ```bash
-curl -fsSL [https://raw.githubusercontent.com/Armanoide/dms/main/install.sh](https://raw.githubusercontent.com/Armanoide/dms/main/install.sh) | bash
+curl -fsSL https://raw.githubusercontent.com/Armanoide/dms/main/install.sh | bash
